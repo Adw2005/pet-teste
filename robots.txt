@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Bloqueie diretórios sensíveis se existirem (ex.: /admin)
+# Disallow: /admin/
+
+Sitemap: https://www.petshopamigofiel.com/sitemap.xml
+
