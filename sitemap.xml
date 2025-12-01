@@ -1,55 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Atualize "https://www.site-pet-teste.com" para o domínio onde o site será publicado -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.site-pet-teste.com/index.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/sobre.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/servicos.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/produtos.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/curiosidades.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/links.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/fotos.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/lista.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/tabela.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.site-pet-teste.com/pages/contato.html</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-</urlset>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
+<url>
+  <loc>https://adw2005.github.io/pet-teste/</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/index.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/sobre.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/servicos.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/produtos.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/curiosidades.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/links.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/fotos.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/lista.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/tabela.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://adw2005.github.io/pet-teste/pages/contato.html</loc>
+  <lastmod>2025-12-01T00:08:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
